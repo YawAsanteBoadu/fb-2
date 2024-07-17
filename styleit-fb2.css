@@ -1,0 +1,24 @@
+#container{
+    border: 2px solid red;
+    display: flex;
+}
+
+#left-inner-container{
+    border: 2px solid green;
+}
+
+#right-inner-container{
+    border: 2px solid yellow;
+
+}
+
+#left-inner-container img{
+    width: 35%;
+}
+
+#left-inner-container span{
+    display: block;
+    font-size: larger;
+}
+    
+    
